@@ -111,7 +111,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D2A5F1FB1F4A9143005CD714 /* Build configuration list for PBXProject "TriassicLoupe" */;
+			buildConfigurationList = D2A5F1FB1F4A9143005CD714 /* Build configuration list for PBXProject "TriassicLoupe-starts" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -285,7 +285,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 88DAFJFCQA;
 				INFOPLIST_FILE = "$(SRCROOT)/TriassicLoupe/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.TriassicLoupe;
@@ -301,7 +301,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 88DAFJFCQA;
 				INFOPLIST_FILE = "$(SRCROOT)/TriassicLoupe/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.TriassicLoupe;
@@ -314,7 +314,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D2A5F1FB1F4A9143005CD714 /* Build configuration list for PBXProject "TriassicLoupe" */ = {
+		D2A5F1FB1F4A9143005CD714 /* Build configuration list for PBXProject "TriassicLoupe-starts" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D2A5F2101F4A9144005CD714 /* Debug */,
